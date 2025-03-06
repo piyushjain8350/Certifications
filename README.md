@@ -4,16 +4,11 @@ Welcome to my Certifications repository! 🎓 This repository serves as a collec
 
 🏆 Why This Repository?
 
-To document and showcase my learning journey 📖
-To keep a well-organized record of my achievements 🗂️
-To help recruiters and collaborators verify my credentials 👨‍💻
+To document and showcase my learning journey 📖,To keep a well-organized record of my achievements 🗂️, To help recruiters and collaborators verify my credentials 👨‍💻
 
 📂 Categories
  
- Cybersecurity 🔐 (e.g., Ethical Hacking, Network Security)
- Programming & Development 💻 (e.g., C++, Java, Python)
- Networking & Cloud ☁️ (e.g., Cisco, AWS, Azure)
- Other Technical Certifications 🏅
+ Cybersecurity 🔐 (e.g., Ethical Hacking, Network Security), Programming & Development 💻 (e.g., C++, Java, Python), Networking & Cloud ☁️ (e.g., Cisco, AWS, Azure), Other Technical Certifications 🏅
 
 🎯 How to Navigate
 
